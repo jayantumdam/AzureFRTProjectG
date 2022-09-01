@@ -1,5 +1,8 @@
 # AzureGroupProject
-#### Description:
+#### Azure Website: https://black-moss-071b0fb10.1.azurestaticapps.net/
+#### Azure Service Used: Static Web Apps 
+#### Description: The idea behind this project is to design a website that allows a user to book travel packages at the comfort of your home. For this I have designed a webiste GoTrip that allows you to book your travel packages with your email address, mobile number and date of birth. I have created the website using HTML, CSS and JavaScirpt and designed the website on visual studio code. Then I have pushed the code on Github and then using Azure static web apps deployed the website on azure.
+
 #### Website:
 ![image](https://user-images.githubusercontent.com/107984964/187926329-7d0db53a-9f7c-4d7e-ba42-ed47d4a714ea.png)
 ![image](https://user-images.githubusercontent.com/107984964/187926398-01facb63-b248-4777-95db-535309bf8c51.png)
